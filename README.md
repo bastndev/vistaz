@@ -240,6 +240,23 @@ First visit within the cooldown sends `POST` (increment); later visits send `GET
 (read-only). Counts live in a single Redis sorted set, so per-page totals and the
 full ranking come from the same structure.
 
-## License
+<br>
 
-MIT
+## 📄 License
+
+MIT © [Gohit X](https://gohit.xyz) — see [`LICENSE`](./LICENSE) for details.
+
+<br>
+
+---
+
+<div align="center">
+  <p>
+    Built with <strong>Bun</strong>, <strong>TypeScript</strong>, and <strong>Web Components</strong>.
+  </p>
+  <p>
+    <a href="https://www.gohit.xyz/package/vistaz">Website</a> ·
+    <a href="https://github.com/bastndev/vistaz">GitHub</a> ·
+    <a href="https://www.npmjs.com/package/vistaz">npm</a>
+  </p>
+</div>
