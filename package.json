@@ -59,9 +59,7 @@
     },
     "./package.json": "./package.json"
   },
-  "files": [
-    "dist"
-  ],
+  "files": ["dist"],
   "sideEffects": false,
   "scripts": {
     "build": "tsup",
@@ -84,7 +82,7 @@
   ],
   "author": "Gohit X (bastndev)",
   "license": "MIT",
-  "homepage": "https://github.com/bastndev/vistaz#readme",
+  "homepage": "https://gohit.xyz/package/vistaz",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bastndev/vistaz.git"
